@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "实时监测",
+  "usingComponents": {
+    "mapaa": "/components/mapView"
+  }
+}
